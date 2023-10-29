@@ -15,16 +15,21 @@ frequency.
 5. Correlation with Economic Factors:
     Collect economic data for the same time frame and use statistical methods like correlation analysis to assess the 
     relationship between economic factors and crime rates.
-6. Day of the Week Analysis:
+
+   Mean per capital income, population below poverty line, unemployment, and employment for the years 2020, 2021, 2023. 
+   Scatter plots & Correlation coefficient was used to show the strength of association between economic factors & number of 
+   crimes per year. The data was derived from the [US Census Bureau website.] 
+   (https://data.census.gov/profile/Los_Angeles_city,_California?g=160XX00US0644000)
+7. Day of the Week Analysis:
    Group the data by day of the week and analyze crime frequencies for each day.
-7. Impact of Major Events:
+8. Impact of Major Events:
     Identify major events or policy changes during the dataset period and analyze crime rate changes before and after these 
     events.
-8. Outliers and Anomalies:
+9. Outliers and Anomalies:
    Use statistical methods or data visualization techniques to identify dataset outliers and investigate unusual patterns.
-9. Demographic Factors:
+10. Demographic Factors:
    Analyze the dataset to identify any patterns or correlations between demographic factors (e.g., age, gender) and specific 
    types of crimes.
-10. Predicting Future Trends:
+11. Predicting Future Trends:
     Employ time series forecasting methods, such as ARIMA or Prophet, to predict future crime trends based on historical 
      data. Consider incorporating relevant external factors into your models
