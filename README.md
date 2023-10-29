@@ -1,7 +1,7 @@
 # LA_Crime-Data-Analysis_from_2020_to_present
 
 The data file uploaded is .gzip due to the file size limit imposed by git, one can convert it to .csv using pandas library
-and can start working on it
+and can start working on it and make sure you have economic-data for correlation of crime data with economic factors.
 1. Overall Crime Trends:
    Calculate and plot the total number of crimes per year to visualize the trends.
 2. Seasonal Patterns:
